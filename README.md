@@ -47,7 +47,9 @@
   
 </div>
 <br>
+
 ### Thanks for visiting my profile!
+
 <br>
 
 Credit: [Mariel](https://github.com/Aryagm)
