@@ -52,7 +52,7 @@
 
 <br>
 
-Credit: [Mariel](https://github.com/Aryagm)
+Credit: [Mariel](https://github.com/MITdesarrollo)
 Last Edited on: 06/02/2024
 
 <!-- RAINBOW LINE button -->
