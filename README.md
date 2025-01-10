@@ -11,7 +11,12 @@
 
 <div>
  
-  ##  About Me <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+  ##  About Me
+  
+ <div align="center">
+  
+   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47easvswd0k3yx1klgywf1vbvtphxsoryixq1qrsfh&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+ </div>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 📚   I am a technology enthusiast who enjoys constantly learning and
